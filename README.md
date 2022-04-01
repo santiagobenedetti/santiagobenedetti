@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Santiago Benedetti</h1>
 <h3 align="center">A full stack web developer </h3>
 
-- 🌱 My knowledge is **JavaScript, React, Redux, NodeJS, Express, Sequelize, PostgreSQL, MariaDB**, but open to learn another technology
+- 🌱 My knowledge is **JavaScript, React, Redux, NodeJS, Express, Sequelize, PostgreSQL, MariaDB**, but open to learn any another technology
 
 
 <h3 align="left">Contact with me:</h3>
