@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Santiago Benedetti</h1>
 <h3 align="center">A full stack web developer </h3>
 
-- 🌱 My knowledge is **JavaScript, React, Redux, NodeJS, Express, Sequelize, PostgreSQL, MariaDB**, but open to learn any another technology
+- 🌱 My knowledge includes:
+  - Backend technologies: **NestJS, Node, Express, SQL, NoSQL**
+  - Frontend technologies: **NextJs, React, VueJs, Redux, ThreeJS**
 
+But open to learn any other technology needed :)
 
 <h3 align="left">Contact with me:</h3>
 <p align="left">
